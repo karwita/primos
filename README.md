@@ -15,3 +15,6 @@ Video master
 https://youtu.be/3KmaNRYsPxk
 Código de subida
 ![image](https://github.com/karwita/primos/assets/81604122/0adad51b-2238-4a7e-863e-e0d59b8167ab)
+Para pasar un archivo maple se lo debe guardar primero en data/example
+luego se migra al path por defecto
+![image](https://github.com/karwita/primos/assets/81604122/ae112f03-7f91-4b22-95c0-4e1fc0160b6f)
