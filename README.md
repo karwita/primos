@@ -13,3 +13,5 @@ Consola de Jupyter Lab
 ![image](https://github.com/karwita/primos/assets/81604122/3abcbe4b-fae9-463f-8138-37232d237e63)
 Video master
 https://youtu.be/3KmaNRYsPxk
+Código de subida
+![image](https://github.com/karwita/primos/assets/81604122/0adad51b-2238-4a7e-863e-e0d59b8167ab)
