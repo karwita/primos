@@ -5,3 +5,5 @@
 ![image](https://github.com/karwita/primos/assets/81604122/aea85367-bb13-4088-93a6-b8904d871424)
 https://www.youtube.com/watch?v=2a0RdzCOtYo
 Diseño de irricad para rociadores
+Conección Kernel Maple
+![image](https://github.com/karwita/primos/assets/81604122/2695f3d4-3b05-48ae-9ee8-2d5b1ffb6695)
